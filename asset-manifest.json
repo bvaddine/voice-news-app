@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/voice-news-app/static/css/main.8f0a4254.css",
+    "main.js": "/voice-news-app/static/js/main.59cca43d.js",
+    "static/js/787.528fe479.chunk.js": "/voice-news-app/static/js/787.528fe479.chunk.js",
+    "index.html": "/voice-news-app/index.html",
+    "main.8f0a4254.css.map": "/voice-news-app/static/css/main.8f0a4254.css.map",
+    "main.59cca43d.js.map": "/voice-news-app/static/js/main.59cca43d.js.map",
+    "787.528fe479.chunk.js.map": "/voice-news-app/static/js/787.528fe479.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f0a4254.css",
+    "static/js/main.59cca43d.js"
+  ]
+}
